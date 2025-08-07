@@ -12,7 +12,7 @@ A Python project focused on implementing and exploring AI guardrails using the O
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Abdul-Haseeb360/SDK_Guardrails_Assignament>
    cd Guardrails_class_07
    ```
 
